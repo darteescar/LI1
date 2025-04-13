@@ -13,4 +13,4 @@ O jogo consiste em controlar um personagem até à saída de um mapa (representa
 
 Para executar o programa nos vários modos disponibilizados basta seguir a guia abaixo.:
 
-* [Guião de execução](Donkey Kong/README.md)
+* [Guião de execução](/README.md)
