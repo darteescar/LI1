@@ -1,41 +1,77 @@
-# Donkey Kong
+🌟 Jogo em Haskell (Português)
 
-## Executável
+Este é um jogo desenvolvido como parte de um projeto académico na linguagem Haskell, que recebeu a nota de 16/20.
 
-Pode compilar e executar o programa através dos comandos `build` e `run` do `cabal`.
+📌 Sobre o Jogo
 
-```bash
-cabal run primate-kong
-```
+O jogo foi inteiramente escrito em Haskell e demonstra uma aplicação prática de programação funcional no desenvolvimento de jogos. Utiliza conceitos como recursividade, funções puras e estruturas de dados imutáveis para criar uma experiência interativa e divertida.
 
-## Interpretador
+🚀 Como correr o jogo
 
-Pode abrir o interpretador do Haskell (GHCi) utilizando o cabal com o projecto automaticamente carregado.
+Garante que tens o GHC (Glasgow Haskell Compiler) instalado.
 
-```bash
-cabal repl
-```
+Faz clone deste repositório:
 
-## Testes
+git clone https://github.com/teu-utilizador/nome-do-jogo.git
+cd nome-do-jogo
 
-O projecto utiliza a biblioteca [HUnit](https://hackage.haskell.org/package/HUnit) para fazer testes unitários.
+Compila o ficheiro principal:
 
-Pode correr os testes utilizando o seguinte comando.
+ghc Main.hs
 
-```bash
-cabal test
-```
+Corre o jogo:
 
-Se pretender executar os exemplos da documentação como testes unitários utiliza-se a biblioteca [Doctest](https://hackage.haskell.org/package/doctest).
+./Main
 
-```bash
-cabal repl --build-depends=QuickCheck,doctest --with-ghc=doctest
-```
+📁 Estrutura do Projeto
 
-## Documentação
+Main.hs – Ponto de entrada do jogo.
 
-Pode gerar a documentação com o [Haddock](https://haskell-haddock.readthedocs.io/).
+Outros módulos (*.hs) – Contêm a lógica do jogo, regras e estrutura de dados.
 
-```bash
-cabal haddock
-```
+✍️ Nota
+
+Projeto académico avaliado com 16 valores em 20.
+
+📃 Licença
+
+Este projeto está licenciado sob a MIT License.
+
+🌟 Haskell Game (English)
+
+This is a game developed as part of an academic project using the Haskell programming language. The project received a grade of 16 out of 20.
+
+📌 About the Game
+
+The game is fully written in Haskell and showcases the use of functional programming concepts such as recursion, pure functions, and immutable data structures to build an interactive and engaging experience.
+
+🚀 How to Run
+
+Make sure you have GHC (Glasgow Haskell Compiler) installed.
+
+Clone the repository:
+
+git clone https://github.com/your-username/game-name.git
+cd game-name
+
+Compile the main file:
+
+ghc Main.hs
+
+Run the game:
+
+./Main
+
+📁 Project Structure
+
+Main.hs – The main entry point of the game.
+
+Other modules (*.hs) – Contain game logic, rules, and data structures.
+
+✍️ Note
+
+Academic project graded 16 out of 20.
+
+📃 License
+
+This project is licensed under the MIT License.
