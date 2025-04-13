@@ -1,8 +1,10 @@
 # Donkey Kong (Português)
 
-Projeto de grupo desenvolvido no âmbito da UC de LI.
+Projeto de grupo desenvolvido no âmbito da UC de LI. O enunciado do projeto pode ser consultado [aqui](Projeto_LI_2324.pdf).
 
 O jogo consiste em controlar um personagem até à saída de um mapa (representada por uma estrela, geralmente no topo), pelo meio enfrentando ou esquivando-se de inimigos. O jogo termina assim que o jogador alcance a saída (caso de vitória) ou perca as vidas em confrontos com os inimigos (caso de derrota.)
+
+
 
 ### Nota Final: 17 / 20 ⭐️
 
@@ -53,7 +55,8 @@ cabal haddock
 
 # Donkey Kong (English)
 
-Group project developed for the LI course.
+Group project developed for the LI course. The project requirements can be found [here](Projeto_LI_2324.pdf) (written in Portuguese).
+
 The game consists of controlling a character to the exit of a map (represented by a star), while facing or dodging enemies. The game ends when the player reaches the exit (in case of victory) or loses his lives when confronting enemies (in case of defeat).
 
 ### Final Mark: 17 / 20 ⭐️
