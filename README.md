@@ -1,77 +1,16 @@
-🌟 Jogo em Haskell (Português)
+# Donkey Kong
 
-Este é um jogo desenvolvido como parte de um projeto académico na linguagem Haskell, que recebeu a nota de 16/20.
+Projeto de grupo desenvolvido no âmbito da UC de LI!.
 
-📌 Sobre o Jogo
+O jogo consiste em controlar um personagem até à saída de um mapa (representada por uma estrela, geralmente no topo), pelo meio enfrentando ou esquivando-se de inimigos. O jogo termina assim que o jogador alcance a saída (caso de vitória) ou perca as vidas em confrontos com os inimigos (caso de derrota.)
 
-O jogo foi inteiramente escrito em Haskell e demonstra uma aplicação prática de programação funcional no desenvolvimento de jogos. Utiliza conceitos como recursividade, funções puras e estruturas de dados imutáveis para criar uma experiência interativa e divertida.
+**Membros do grupo:**
 
-🚀 Como correr o jogo
+* [darteescar](https://github.com/darteescar)
+* [JoseLourencoFernandes](https://github.com/JoseLourencoFernandes)
 
-Garante que tens o GHC (Glasgow Haskell Compiler) instalado.
+## Execução
 
-Faz clone deste repositório:
+Para executar o programa nos vários modos disponibilizados basta seguir a guia abaixo.:
 
-git clone https://github.com/teu-utilizador/nome-do-jogo.git
-cd nome-do-jogo
-
-Compila o ficheiro principal:
-
-ghc Main.hs
-
-Corre o jogo:
-
-./Main
-
-📁 Estrutura do Projeto
-
-Main.hs – Ponto de entrada do jogo.
-
-Outros módulos (*.hs) – Contêm a lógica do jogo, regras e estrutura de dados.
-
-✍️ Nota
-
-Projeto académico avaliado com 16 valores em 20.
-
-📃 Licença
-
-Este projeto está licenciado sob a MIT License.
-
-🌟 Haskell Game (English)
-
-This is a game developed as part of an academic project using the Haskell programming language. The project received a grade of 16 out of 20.
-
-📌 About the Game
-
-The game is fully written in Haskell and showcases the use of functional programming concepts such as recursion, pure functions, and immutable data structures to build an interactive and engaging experience.
-
-🚀 How to Run
-
-Make sure you have GHC (Glasgow Haskell Compiler) installed.
-
-Clone the repository:
-
-git clone https://github.com/your-username/game-name.git
-cd game-name
-
-Compile the main file:
-
-ghc Main.hs
-
-Run the game:
-
-./Main
-
-📁 Project Structure
-
-Main.hs – The main entry point of the game.
-
-Other modules (*.hs) – Contain game logic, rules, and data structures.
-
-✍️ Note
-
-Academic project graded 16 out of 20.
-
-📃 License
-
-This project is licensed under the MIT License.
+* [Guião de execução](README.md)
