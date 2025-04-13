@@ -9,6 +9,13 @@ O jogo consiste em controlar um personagem até à saída de um mapa (representa
 * [darteescar](https://github.com/darteescar)
 * [JoseLourencoFernandes](https://github.com/JoseLourencoFernandes)
 
+### Grade
+
+**Nota Final**: 17 / 20 ⭐️
+
+ - 1st phase: 20.0 / 20.0
+ - 2nd phase: 19.6 / 20.0
+
 ## Executável
 
 Pode compilar e executar o programa através dos comandos `build` e `run` do `cabal`.
