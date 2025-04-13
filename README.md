@@ -56,7 +56,7 @@ cabal haddock
 Group project developed for the LI course.
 The game consists of controlling a character to the exit of a map (represented by a star), while facing or dodging enemies. The game ends when the player reaches the exit (in case of victory) or loses his lives when confronting enemies (in case of defeat).
 
-### Final Note: 17 / 20 ⭐️
+### Final Mark: 17 / 20 ⭐️
 
 ## Group Members
 
